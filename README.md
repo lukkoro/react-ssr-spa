@@ -1,1 +1,1 @@
-# react_ssr_spa
+# react-ssr-spa
